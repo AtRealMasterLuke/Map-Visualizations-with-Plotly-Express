@@ -17,7 +17,7 @@ This visualization shows the population density of countries in 2007. The data i
 
 ### 2. Alcohol Consumption (2010)
 
-This visualization shows alcohol per country in 2007. The data is sourced from CSV file.
+This visualization shows alcohol per country in 2010. The data is sourced from CSV file.
 
 **Features:**
 - Marker size represents the population of each country.
