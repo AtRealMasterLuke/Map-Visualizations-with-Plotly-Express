@@ -42,7 +42,7 @@ To run these visualizations, you need the following Python libraries:
 - Plotly
 - Pandas
 
-**Acknowledgements**
+**Acknowledgements:**
 -Data for population density is sourced from the Gapminder dataset.
 -Data for alcohol consumption is sourced from Plotly datasets.
--Thanks to RAJ KUMAR PANDEY for providing the dataset on Kaggle.
+-Thanks to RAJ KUMAR PANDEY for providing the List of Busiest Airports by Passenger Traffic dataset on Kaggle.
